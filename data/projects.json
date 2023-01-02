@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "hoster": "Github",
+    "name": "Note App",
+    "demo_url": "https://github.com/Aileendejucos/NoteApp-AileenDejucos",
+    "hoster_url": "https://github.com/Aileendejucos/NoteApp-AileenDejucos",
+    "thumbnail_url": "https://github.com/Aileendejucos/images/blob/main/Screenshot%20(554).png?raw=true"
+  },
+  {
+    "id": 2,
+    "hoster": "Github",
+    "name": "Weather App",
+    "demo_url": "https://github.com/Aileendejucos/weather-app-dejucos",
+    "hoster_url": "https://github.com/Aileendejucos/weather-app-dejucos",
+    "thumbnail_url": "https://github.com/Aileendejucos/images/blob/main/Screenshot%20(556).png?raw=true"
+  },
+  {
+     "id": 3,
+    "hoster": "Github",
+    "name": "Chat App",
+    "demo_url": "https://github.com/Aileendejucos/chat-app-dejucos",
+    "hoster_url": "https://github.com/Aileendejucos/chat-app-dejucos",
+    "thumbnail_url": "https://github.com/Aileendejucos/images/blob/main/Screenshot%20(555).png?raw=true"
+  },
+  {
+    "id": 4,
+    "hoster": "Github",
+    "name": "The Shopping Cart Project",
+    "demo_url": "https://github.com/DejucosAileen/IT-213-DOM-CART-ACTIVITY",
+    "hoster_url": "https://github.com/DejucosAileen/IT-213-DOM-CART-ACTIVITY",
+    "thumbnail_url": "https://github.com/KylaMae01/public-images/blob/main/2021-12-07.png?raw=true"
+  },
+  {
+    "id": 5,
+    "hoster": "Github",
+    "name": "Email sending with form",
+    "demo_url": "https://github.com/DejucosAileen/IT-213-SENDING-EMAIL",
+    "hoster_url": "https://github.com/DejucosAileen/IT-213-SENDING-EMAIL",
+    "thumbnail_url": "https://github.com/KylaMae01/public-images/blob/main/2021-12-07%20(3).png?raw=true"
+  },
+  {
+    "id": 6,
+    "hoster": "Github",
+    "name": "Car Insurance Quotation",
+    "demo_url": "https://github.com/DejucosAileen/IT---213---Car-Insurance",
+    "hoster_url": "https://github.com/DejucosAileen/IT---213---Car-Insurance",
+    "thumbnail_url": "https://github.com/KylaMae01/public-images/blob/main/2021-12-07%20(2).png?raw=true"
+  },
+  {
+    "id": 7,
+    "name": "The Weekly Budget App",
+    "hoster": "Github",
+    "demo_url": "https://github.com/DejucosAileen/IT-213-WEEKLY-BUDGET",
+    "hoster_url": "https://github.com/DejucosAileen/IT-213-WEEKLY-BUDGET",
+    "thumbnail_url": "https://github.com/KylaMae01/public-images/blob/main/2021-12-07%20(1).png?raw=true"
+  },
+  {
+    "id": 8,
+    "hoster": "CodePen",
+    "name": "FreeCodeCamp Survey form",
+    "demo_url": "https://codepen.io/dwinatech/full/abmzwpq",
+    "hoster_url": "https://codepen.io/dwinatech/pen/abmzwpq",
+    "thumbnail_url": "https://github.com/DwinaTech/public-images/blob/main/survey-form.png?raw=true"
+  },
+  {
+    "id": 9,
+    "hoster": "CodePen",
+    "name": "FreeCodeCamp Personal Portfolio",
+    "demo_url": "https://codepen.io/dwinatech/full/mdrVZdw",
+    "hoster_url": "https://codepen.io/dwinatech/pen/mdrVZdw",
+    "thumbnail_url": "https://github.com/DwinaTech/public-images/blob/main/thumbnail/portfolio%20(1).jpg?raw=true"
+  },
+  {
+    "id": 10,
+    "name": "FreeCodeCamp Tribute Page",
+    "hoster": "CodePen",
+    "demo_url": "https://codepen.io/dwinatech/full/zYKYPpL",
+    "hoster_url": "https://codepen.io/dwinatech/pen/zYKYPpL",
+    "thumbnail_url": "https://github.com/DwinaTech/public-images/blob/main/tribute-page.png?raw=true"
+  }
+  
+]
